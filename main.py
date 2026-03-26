@@ -17,7 +17,6 @@ class Calculadora:
         Deveria ser uma multiplicação, mas está executando uma soma.
         """
         # TODO: Revisar esta lógica com o time de Negócios
-        return a + b
         return a * b
 
 
